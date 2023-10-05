@@ -2,11 +2,11 @@ Username,Password,Device
 root,xmhdipc,Shenzhen Anran Security Camera
 root,xc3511,H.264 - Chinese DVR 
 root,vizxv,Dahua Camera
-root,klv123,
-root,123456,
-root,jvbzd,
-root,ZTE521,
-root,ivdev,
+root,klv123,HiSilicon IP Camera
+root,123456,ACTi IP Camera
+root,jvbzd,HiSilicon IP Camera
+root,ZTE521,ZTE Router
+root,ivdev,HiSilicon IP Camera (uncomfirmed)
 root,hi3518,
 root,cat1029,
 root,GM8182,
